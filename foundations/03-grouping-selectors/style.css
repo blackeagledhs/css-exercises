@@ -1,0 +1,15 @@
+.btnblk,
+.btnylw {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.btnblk {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.btnylw {
+    background-color: #ecc92d;
+    color: #000000;
+}
